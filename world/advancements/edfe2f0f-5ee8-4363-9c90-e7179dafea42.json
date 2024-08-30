@@ -318,7 +318,8 @@
       "Completed Age of Exploration§r": "2024-08-28 20:30:37 +0200",
       "Completed Nether Here Nor There§r": "2024-08-30 18:50:39 +0200",
       "Completed No Cake Like Home§r": "2024-08-30 18:50:39 +0200",
-      "Prestige Mode Disabled": "2024-08-28 20:30:38 +0200"
+      "Prestige Mode Disabled": "2024-08-28 20:30:38 +0200",
+      "Completed Enter the Twilight§r": "2024-08-30 21:06:51 +0200"
     },
     "done": false
   },
@@ -374,8 +375,15 @@
     },
     "done": false
   },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "3": "2024-08-30 21:06:51 +0200"
+    },
+    "done": true
+  },
   "sf4:age_farming/animalseeds": {
     "criteria": {
+      "Adelie Penguin Seed": "2024-08-30 20:47:25 +0200",
       "Cow Seed": "2024-08-30 18:21:24 +0200",
       "Chicken Seed": "2024-08-30 15:48:50 +0200",
       "Pig Seed": "2024-08-30 16:36:58 +0200"
@@ -613,6 +621,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2024-08-30 21:07:38 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/iron_bucket": {
     "criteria": {
       "Completed Root": "2024-08-28 20:30:38 +0200",
@@ -643,6 +657,12 @@
     "criteria": {
       "Completed Root": "2024-08-28 20:30:38 +0200",
       "Obtain Lead Amber": "2024-08-30 01:46:57 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2024-08-30 21:06:51 +0200"
     },
     "done": true
   },
@@ -830,6 +850,12 @@
     },
     "done": false
   },
+  "sf4:age_exploration/twilightforest": {
+    "criteria": {
+      "Entered Twilight Forest Dimension": "2024-08-30 21:06:51 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/iron": {
     "criteria": {
       "Completed Root": "2024-08-28 20:30:38 +0200",
@@ -922,6 +948,12 @@
       "Get killed": "2024-08-29 16:47:43 +0200"
     },
     "done": false
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-08-30 21:06:51 +0200"
+    },
+    "done": true
   },
   "sf4:age1/clay_bucket": {
     "criteria": {
