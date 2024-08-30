@@ -56,7 +56,8 @@
       "Completed Hardwood§r": "2024-08-29 11:25:40 +0200",
       "Completed Sixteen Tons§r": "2024-08-29 15:48:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 02:39:22 +0200",
-      "Completed Clay Aiken§r": "2024-08-29 11:27:58 +0200"
+      "Completed Clay Aiken§r": "2024-08-29 11:27:58 +0200",
+      "Completed I Don\u0027t Know§r": "2024-08-31 01:35:14 +0200"
     },
     "done": false
   },
@@ -76,9 +77,10 @@
   },
   "sf4:age1/sapling/slime": {
     "criteria": {
-      "Completed Root": "2024-08-28 20:30:38 +0200"
+      "Completed Root": "2024-08-28 20:30:38 +0200",
+      "Obtain Blue Slime Sapling": "2024-08-31 01:35:14 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/string": {
     "criteria": {
@@ -180,6 +182,12 @@
   "tutorial:tutorial/craftingstation": {
     "criteria": {
       "Obtain a Crafting Station": "2024-08-30 01:21:44 +0200"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/slimesapling": {
+    "criteria": {
+      "Obtain Blue Slime Sapling": "2024-08-31 01:35:14 +0200"
     },
     "done": false
   },
@@ -303,7 +311,8 @@
       "Completed Hardwood§r": "2024-08-29 11:25:40 +0200",
       "Completed Sixteen Tons§r": "2024-08-29 15:48:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 02:39:22 +0200",
-      "Completed Clay Aiken§r": "2024-08-29 11:27:58 +0200"
+      "Completed Clay Aiken§r": "2024-08-29 11:27:58 +0200",
+      "Completed I Don\u0027t Know§r": "2024-08-31 01:35:14 +0200"
     },
     "done": false
   },
@@ -482,6 +491,7 @@
   "sf4:age_power/completenoprestige": {
     "criteria": {
       "Prestige Mode Disabled": "2024-08-28 20:30:38 +0200",
+      "Completed Extraction, Extraction, Read All About It!§r": "2024-08-31 01:41:20 +0200",
       "Completed Age of Power§r": "2024-08-28 20:30:37 +0200"
     },
     "done": false
@@ -688,6 +698,12 @@
     "criteria": {
       "Completed Root": "2024-08-28 20:30:38 +0200",
       "Obtain Gold Amber": "2024-08-30 01:50:51 +0200"
+    },
+    "done": true
+  },
+  "sf4:age_power/extractionchamber": {
+    "criteria": {
+      "Obtain Loot Fabricator": "2024-08-31 01:41:20 +0200"
     },
     "done": true
   },
@@ -927,6 +943,7 @@
   },
   "sf4:age_power/complete": {
     "criteria": {
+      "Completed Extraction, Extraction, Read All About It!§r": "2024-08-31 01:41:20 +0200",
       "Completed Age of Power§r": "2024-08-28 20:30:37 +0200"
     },
     "done": false
