@@ -12,6 +12,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/greenslimydirt": {
+    "criteria": {
+      "Obtain Green Slime Dirt": "2024-09-02 23:29:40 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/complete": {
     "criteria": {
       "Completed Tin Man§r": "2024-08-30 02:29:44 +0200",
@@ -56,7 +62,9 @@
       "Completed Hardwood§r": "2024-08-29 11:25:40 +0200",
       "Completed Sixteen Tons§r": "2024-08-29 15:48:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 02:39:22 +0200",
+      "Completed Stop Slabbing Yourself§r": "2024-09-02 23:27:08 +0200",
       "Completed Clay Aiken§r": "2024-08-29 11:27:58 +0200",
+      "Completed I\u0027ve Been Slimed§r": "2024-09-02 23:29:40 +0200",
       "Completed I Don\u0027t Know§r": "2024-08-31 01:35:14 +0200"
     },
     "done": false
@@ -193,9 +201,10 @@
   },
   "sf4:age1/slabs": {
     "criteria": {
-      "Completed Root": "2024-08-28 20:30:38 +0200"
+      "Completed Root": "2024-08-28 20:30:38 +0200",
+      "Obtain Crafting Station Slab": "2024-09-02 23:27:08 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_farming/wheatseeds": {
     "criteria": {
@@ -311,7 +320,9 @@
       "Completed Hardwood§r": "2024-08-29 11:25:40 +0200",
       "Completed Sixteen Tons§r": "2024-08-29 15:48:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 02:39:22 +0200",
+      "Completed Stop Slabbing Yourself§r": "2024-09-02 23:27:08 +0200",
       "Completed Clay Aiken§r": "2024-08-29 11:27:58 +0200",
+      "Completed I\u0027ve Been Slimed§r": "2024-09-02 23:29:40 +0200",
       "Completed I Don\u0027t Know§r": "2024-08-31 01:35:14 +0200"
     },
     "done": false
@@ -337,6 +348,12 @@
       "inventoryChange": "2024-08-28 20:30:37 +0200"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/slabs": {
+    "criteria": {
+      "Obtain Crafting Station Slab": "2024-09-02 23:27:08 +0200"
+    },
+    "done": false
   },
   "tutorial:tutorial/copied/claysapling": {
     "criteria": {
@@ -615,9 +632,10 @@
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
-      "Completed Root": "2024-08-28 20:30:38 +0200"
+      "Completed Root": "2024-08-28 20:30:38 +0200",
+      "Obtain Green Slime Dirt": "2024-09-02 23:29:40 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/tank": {
     "criteria": {

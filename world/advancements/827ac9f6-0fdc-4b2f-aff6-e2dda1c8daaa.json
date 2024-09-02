@@ -12,6 +12,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/greenslimydirt": {
+    "criteria": {
+      "Obtain Green Slime Dirt": "2024-09-02 23:29:47 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/complete": {
     "criteria": {
       "Completed Tin Man§r": "2024-08-30 02:29:48 +0200",
@@ -56,7 +62,9 @@
       "Completed Hardwood§r": "2024-08-30 01:46:16 +0200",
       "Completed Sixteen Tons§r": "2024-08-30 01:46:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 02:39:26 +0200",
-      "Completed Clay Aiken§r": "2024-08-30 01:46:20 +0200"
+      "Completed Stop Slabbing Yourself§r": "2024-09-02 23:27:01 +0200",
+      "Completed Clay Aiken§r": "2024-08-30 01:46:20 +0200",
+      "Completed I\u0027ve Been Slimed§r": "2024-09-02 23:29:47 +0200"
     },
     "done": false
   },
@@ -87,6 +95,12 @@
       "Obtain String": "2024-08-30 02:43:33 +0200"
     },
     "done": true
+  },
+  "compactmachines:test/7x7x7": {
+    "criteria": {
+      "Obtain Netherrack": "2024-09-02 22:51:21 +0200"
+    },
+    "done": false
   },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
@@ -149,11 +163,18 @@
     },
     "done": false
   },
-  "sf4:age1/slabs": {
+  "tutorial:tutorial/craftingstation": {
     "criteria": {
-      "Completed Root": "2024-08-30 01:21:41 +0200"
+      "Obtain a Crafting Station": "2024-09-02 23:26:58 +0200"
     },
     "done": false
+  },
+  "sf4:age1/slabs": {
+    "criteria": {
+      "Completed Root": "2024-08-30 01:21:41 +0200",
+      "Obtain Crafting Station Slab": "2024-09-02 23:27:01 +0200"
+    },
+    "done": true
   },
   "sf4:age_farming/wheatseeds": {
     "criteria": {
@@ -197,7 +218,8 @@
       "Prestige Mode Disabled": "2024-08-30 01:21:41 +0200",
       "Completed To Be ORe Not to Be§r": "2024-08-30 02:10:28 +0200",
       "Completed Age of Enhancement§r": "2024-08-30 01:21:41 +0200",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2024-08-30 02:10:31 +0200"
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2024-08-30 02:10:31 +0200",
+      "Completed An Enchanting Evening§r": "2024-09-02 22:58:59 +0200"
     },
     "done": false
   },
@@ -258,7 +280,9 @@
       "Completed Hardwood§r": "2024-08-30 01:46:16 +0200",
       "Completed Sixteen Tons§r": "2024-08-30 01:46:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 02:39:26 +0200",
-      "Completed Clay Aiken§r": "2024-08-30 01:46:20 +0200"
+      "Completed Stop Slabbing Yourself§r": "2024-09-02 23:27:01 +0200",
+      "Completed Clay Aiken§r": "2024-08-30 01:46:20 +0200",
+      "Completed I\u0027ve Been Slimed§r": "2024-09-02 23:29:47 +0200"
     },
     "done": false
   },
@@ -282,6 +306,13 @@
       "inventoryChange": "2024-08-30 01:21:41 +0200"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/slabs": {
+    "criteria": {
+      "Obtain Furnace Slab": "2024-09-02 23:27:35 +0200",
+      "Obtain Crafting Station Slab": "2024-09-02 23:27:01 +0200"
+    },
+    "done": false
   },
   "tutorial:tutorial/copied/claysapling": {
     "criteria": {
@@ -369,6 +400,12 @@
     },
     "done": true
   },
+  "pacifist:pacifist_run/lose": {
+    "criteria": {
+      "killed poor innocent creature": "2024-09-02 22:16:08 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/root": {
     "criteria": {
       "non_tutorial_start": "2024-08-30 01:21:41 +0200"
@@ -448,6 +485,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "cast": "2024-09-02 23:05:48 +0200"
+    },
+    "done": true
+  },
   "sf4:age_storage/compactstoragechest": {
     "criteria": {
       "Obtain Compact Storage Chest": "2024-08-30 17:57:42 +0200"
@@ -508,9 +551,10 @@
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
-      "Completed Root": "2024-08-30 01:21:41 +0200"
+      "Completed Root": "2024-08-30 01:21:41 +0200",
+      "Obtain Green Slime Dirt": "2024-09-02 23:29:47 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/tank": {
     "criteria": {
@@ -577,6 +621,7 @@
       "Obtain Silver Sapling": "2024-08-30 02:33:36 +0200",
       "Obtain Coal Sapling": "2024-08-30 01:46:21 +0200",
       "Obtain Diamond Sapling": "2024-08-30 02:34:23 +0200",
+      "Obtain Copper Sapling": "2024-09-02 22:46:01 +0200",
       "Obtain Cottonwood Sapling": "2024-08-30 02:42:30 +0200",
       "Obtain Lapis Sapling": "2024-08-30 01:39:31 +0200",
       "Obtain Petrified Sapling": "2024-08-30 01:46:16 +0200",
@@ -689,11 +734,18 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/enchantmenttable": {
+    "criteria": {
+      "Obtain Enchantment Table": "2024-09-02 22:58:59 +0200"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/complete": {
     "criteria": {
       "Completed To Be ORe Not to Be§r": "2024-08-30 02:10:28 +0200",
       "Completed Age of Enhancement§r": "2024-08-30 01:21:41 +0200",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2024-08-30 02:10:31 +0200"
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2024-08-30 02:10:31 +0200",
+      "Completed An Enchanting Evening§r": "2024-09-02 22:58:59 +0200"
     },
     "done": false
   },

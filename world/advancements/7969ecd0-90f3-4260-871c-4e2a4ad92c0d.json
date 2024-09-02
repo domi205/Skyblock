@@ -5,6 +5,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/oakwood": {
+    "criteria": {
+      "Obtain Oak Wood": "2024-09-02 22:34:22 +0200"
+    },
+    "done": false
+  },
   "sf4:age_enhancement/root": {
     "criteria": {
       "inventoryChange": "2024-08-28 21:52:10 +0200"
@@ -17,6 +23,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/oakplanks": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2024-09-02 22:42:24 +0200"
+    },
+    "done": false
+  },
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2024-08-28 21:52:10 +0200"
@@ -25,10 +37,18 @@
   },
   "sf4:age1/complete": {
     "criteria": {
+      "Completed Air Fryer§r": "2024-09-02 23:05:40 +0200",
       "Completed That\u0027s Dir-tree§r": "2024-08-28 21:53:30 +0200",
+      "Completed Sticky Keys§r": "2024-09-02 23:10:44 +0200",
+      "Completed I Love Lucy§r": "2024-09-02 23:27:05 +0200",
       "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Completed Captain Hook§r": "2024-09-02 23:09:28 +0200",
+      "Completed Dirty Dancing§r": "2024-09-02 22:48:18 +0200",
       "Completed SkyFactory 4§r": "2024-08-28 21:52:10 +0200",
-      "Completed Starting from the Bottom§r": "2024-08-28 21:53:29 +0200"
+      "Completed On the Rocks§r": "2024-09-02 23:13:57 +0200",
+      "Completed Starting from the Bottom§r": "2024-08-28 21:53:29 +0200",
+      "Completed Hardwood§r": "2024-09-02 23:08:21 +0200",
+      "Completed Eating Dirt§r": "2024-09-02 23:26:15 +0200"
     },
     "done": false
   },
@@ -108,11 +128,18 @@
     },
     "done": false
   },
-  "sf4:age1/sapling/petrified": {
+  "tutorial:tutorial/placedirtsapling": {
     "criteria": {
-      "Completed Root": "2024-08-28 21:52:10 +0200"
+      "Placed Dirt Sapling": "2024-09-02 22:34:35 +0200"
     },
     "done": false
+  },
+  "sf4:age1/sapling/petrified": {
+    "criteria": {
+      "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Obtain Petrified Sapling": "2024-09-02 23:08:21 +0200"
+    },
+    "done": true
   },
   "sf4:age1/sapling/redstone": {
     "criteria": {
@@ -140,19 +167,27 @@
   },
   "sf4:age1/wooden_crook": {
     "criteria": {
-      "Completed Root": "2024-08-28 21:52:10 +0200"
+      "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Obtain Wooden Crook": "2024-09-02 23:09:28 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_farming/skyorchards": {
     "criteria": {
-      "Obtain Dirt Sapling": "2024-08-28 21:53:30 +0200"
+      "Obtain Dirt Sapling": "2024-08-28 21:53:30 +0200",
+      "Obtain Petrified Sapling": "2024-09-02 23:08:21 +0200"
     },
     "done": false
   },
   "sf4:age_exploration/skygriddragonkill": {
     "criteria": {
       "Completed Age of Exploration§r": "2024-08-28 21:52:10 +0200"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/crushingtub": {
+    "criteria": {
+      "Obtain Crushing Tub": "2024-09-02 23:27:05 +0200"
     },
     "done": false
   },
@@ -217,6 +252,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/petrifiedsapling": {
+    "criteria": {
+      "Obtain Petrified Sapling": "2024-09-02 23:08:21 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/sand": {
     "criteria": {
       "Completed Root": "2024-08-28 21:52:10 +0200"
@@ -225,9 +266,10 @@
   },
   "sf4:age1/dirt": {
     "criteria": {
-      "Completed Root": "2024-08-28 21:52:10 +0200"
+      "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Craft Dirt Block": "2024-09-02 22:48:18 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/coal": {
     "criteria": {
@@ -254,13 +296,27 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/watercollection": {
+    "criteria": {
+      "Right Click Cauldron with Water Inside": "2024-09-02 22:30:24 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/completenoprestige": {
     "criteria": {
+      "Completed Air Fryer§r": "2024-09-02 23:05:40 +0200",
       "Prestige Mode Disabled": "2024-08-28 21:52:10 +0200",
       "Completed That\u0027s Dir-tree§r": "2024-08-28 21:53:30 +0200",
+      "Completed Sticky Keys§r": "2024-09-02 23:10:44 +0200",
+      "Completed I Love Lucy§r": "2024-09-02 23:27:05 +0200",
       "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Completed Captain Hook§r": "2024-09-02 23:09:28 +0200",
+      "Completed Dirty Dancing§r": "2024-09-02 22:48:18 +0200",
       "Completed SkyFactory 4§r": "2024-08-28 21:52:10 +0200",
-      "Completed Starting from the Bottom§r": "2024-08-28 21:53:29 +0200"
+      "Completed On the Rocks§r": "2024-09-02 23:13:57 +0200",
+      "Completed Starting from the Bottom§r": "2024-08-28 21:53:29 +0200",
+      "Completed Hardwood§r": "2024-09-02 23:08:21 +0200",
+      "Completed Eating Dirt§r": "2024-09-02 23:26:15 +0200"
     },
     "done": false
   },
@@ -307,6 +363,13 @@
     },
     "done": false
   },
+  "pacifist:pacifist_run/peaceful": {
+    "criteria": {
+      "brokeLeaves": "2024-09-02 22:34:14 +0200",
+      "brokeLog": "2024-09-02 22:34:18 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/lead": {
     "criteria": {
       "Completed Root": "2024-08-28 21:52:10 +0200"
@@ -327,9 +390,10 @@
   },
   "sf4:age1/acorn/dirt_cooked": {
     "criteria": {
-      "Completed Root": "2024-08-28 21:52:10 +0200"
+      "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Obtain Cooked Dirt Acorn": "2024-09-02 23:26:15 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/watersource": {
     "criteria": {
@@ -340,9 +404,11 @@
   },
   "sf4:age1/twerk": {
     "criteria": {
-      "Completed Root": "2024-08-28 21:52:10 +0200"
+      "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Obtain 8 Dirt Saplings": "2024-09-02 23:10:44 +0200",
+      "Obtain 8 Oak Logs": "2024-09-02 22:39:52 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/cauldron": {
     "criteria": {
@@ -353,6 +419,12 @@
   "sf4:age1/cobblestone_generator": {
     "criteria": {
       "Completed Root": "2024-08-28 21:52:10 +0200"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/cobblestone": {
+    "criteria": {
+      "Obtain Cobblestone Block": "2024-09-02 23:13:57 +0200"
     },
     "done": false
   },
@@ -370,9 +442,10 @@
   },
   "sf4:age1/crushing_tub": {
     "criteria": {
+      "Obtain Crushing Tub": "2024-09-02 23:27:05 +0200",
       "Completed Root": "2024-08-28 21:52:10 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/prestige_notify": {
     "criteria": {
@@ -383,6 +456,12 @@
   "sf4:age1/clay_bucket": {
     "criteria": {
       "Completed Root": "2024-08-28 21:52:10 +0200"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/petrifiedacorn": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2024-09-02 23:07:27 +0200"
     },
     "done": false
   },
@@ -409,6 +488,12 @@
       "non_tutorial_start": "2024-08-28 21:52:10 +0200"
     },
     "done": true
+  },
+  "tutorial:tutorial/woodencrook": {
+    "criteria": {
+      "Obtain a Wooden Crook": "2024-09-02 23:09:28 +0200"
+    },
+    "done": false
   },
   "sf4:age1/sapling/donut": {
     "criteria": {
@@ -437,9 +522,10 @@
   },
   "sf4:age1/cobblestone": {
     "criteria": {
-      "Completed Root": "2024-08-28 21:52:10 +0200"
+      "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Obtain Cobblestone Block": "2024-09-02 23:13:57 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/gold": {
     "criteria": {
@@ -449,7 +535,20 @@
   },
   "sf4:age1/drying_rack": {
     "criteria": {
-      "Completed Root": "2024-08-28 21:52:10 +0200"
+      "Completed Root": "2024-08-28 21:52:10 +0200",
+      "Obtain Drying Rack": "2024-09-02 23:05:40 +0200"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/dryingrack": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2024-09-02 23:05:40 +0200"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/placeoak": {
+    "criteria": {
+      "Placed Oak Planks": "2024-09-02 22:42:28 +0200"
     },
     "done": false
   },
