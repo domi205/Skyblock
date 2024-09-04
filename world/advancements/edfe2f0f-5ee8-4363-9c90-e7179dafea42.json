@@ -113,7 +113,11 @@
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2024-08-28 20:30:38 +0200",
+      "Completed Wares the Remote?§r": "2024-09-04 00:52:50 +0200",
       "Completed I Like Big Box and I Cannot Lie§r": "2024-08-30 17:57:47 +0200",
+      "Completed CAT 5§r": "2024-09-04 00:21:21 +0200",
+      "Completed Master Blaster§r": "2024-09-04 00:25:37 +0200",
+      "Completed I WANT IT NOW!§r": "2024-09-04 00:25:57 +0200",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-08-30 13:33:59 +0200",
       "Completed Age of Storage§r": "2024-08-28 20:30:37 +0200",
       "Completed Hop to It§r": "2024-08-30 14:09:12 +0200"
@@ -180,7 +184,11 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
+      "Completed Wares the Remote?§r": "2024-09-04 00:52:50 +0200",
       "Completed I Like Big Box and I Cannot Lie§r": "2024-08-30 17:57:47 +0200",
+      "Completed CAT 5§r": "2024-09-04 00:21:21 +0200",
+      "Completed Master Blaster§r": "2024-09-04 00:25:37 +0200",
+      "Completed I WANT IT NOW!§r": "2024-09-04 00:25:57 +0200",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-08-30 13:33:59 +0200",
       "Completed Age of Storage§r": "2024-08-28 20:30:37 +0200",
       "Completed Hop to It§r": "2024-08-30 14:09:12 +0200"
@@ -248,6 +256,12 @@
       "Completed Age of Exploration§r": "2024-08-28 20:30:37 +0200"
     },
     "done": false
+  },
+  "sf4:age_storage/simplestoragerequest": {
+    "criteria": {
+      "Obtain Request Block": "2024-09-04 00:25:57 +0200"
+    },
+    "done": true
   },
   "sf4:age_enhancement/completenoprestige": {
     "criteria": {
@@ -602,6 +616,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/simplestorageremote": {
+    "criteria": {
+      "Obtain Storage Network Remote": "2024-09-04 00:52:50 +0200"
+    },
+    "done": true
+  },
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2024-08-28 20:30:37 +0200",
@@ -740,6 +760,7 @@
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2024-08-28 21:18:37 +0200",
+      "Obtain Osmium Sapling": "2024-09-04 01:28:54 +0200",
       "Obtain Lead Sapling": "2024-08-30 01:47:55 +0200",
       "Obtain Silver Sapling": "2024-08-30 02:32:44 +0200",
       "Obtain Coal Sapling": "2024-08-29 15:48:21 +0200",
@@ -747,6 +768,7 @@
       "Obtain Copper Sapling": "2024-08-30 12:41:56 +0200",
       "Obtain Cottonwood Sapling": "2024-08-30 02:42:08 +0200",
       "Obtain Lapis Sapling": "2024-08-30 01:39:37 +0200",
+      "Obtain Emerald Sapling": "2024-09-04 01:13:32 +0200",
       "Obtain Petrified Sapling": "2024-08-29 11:25:40 +0200",
       "Obtain Tin Sapling": "2024-08-30 02:30:45 +0200",
       "Obtain Nickel Sapling": "2024-08-30 12:59:03 +0200",
@@ -756,7 +778,8 @@
       "Obtain Redstone Sapling": "2024-08-30 02:10:38 +0200",
       "Obtain Clay Sapling": "2024-08-29 11:27:58 +0200",
       "Obtain Gravel Sapling": "2024-08-29 11:36:31 +0200",
-      "Obtain Bone Sapling": "2024-08-29 17:40:18 +0200"
+      "Obtain Bone Sapling": "2024-08-29 17:40:18 +0200",
+      "Obtain Quartz Sapling": "2024-09-04 01:21:21 +0200"
     },
     "done": false
   },
@@ -842,6 +865,12 @@
     "criteria": {
       "Completed Root": "2024-08-28 20:30:38 +0200",
       "Obtain Sand Sapling": "2024-08-29 15:13:46 +0200"
+    },
+    "done": true
+  },
+  "sf4:age_storage/simplestoragecable": {
+    "criteria": {
+      "Obtain Network Cable": "2024-09-04 00:21:21 +0200"
     },
     "done": true
   },
@@ -945,6 +974,12 @@
       "Obtain Diamond Sapling": "2024-08-30 02:33:42 +0200"
     },
     "done": false
+  },
+  "sf4:age_storage/simplestoragemaster": {
+    "criteria": {
+      "Obtain Network Master Block": "2024-09-04 00:25:37 +0200"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/diamond": {
     "criteria": {

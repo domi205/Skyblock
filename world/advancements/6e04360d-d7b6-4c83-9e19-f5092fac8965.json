@@ -20,16 +20,22 @@
       "Completed Water You Waiting For?§r": "2024-08-30 16:47:25 +0200",
       "Completed Break a Leg§r": "2024-08-30 16:53:20 +0200",
       "Completed I Love Lucy§r": "2024-08-30 16:12:46 +0200",
+      "Completed Palm Trees§r": "2024-09-04 01:26:23 +0200",
       "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Completed Nap Time§r": "2024-09-04 02:20:10 +0200",
       "Completed Captain Hook§r": "2024-08-29 16:44:18 +0200",
       "Completed Dirty Dancing§r": "2024-08-29 16:40:32 +0200",
+      "Completed Amber is the Color of my Dinosaur§r": "2024-09-04 01:35:56 +0200",
       "Completed SkyFactory 4§r": "2024-08-29 16:33:12 +0200",
       "Completed Don\u0027t Sieve on Me§r": "2024-08-30 16:17:21 +0200",
       "Completed Bubble, Bubble§r": "2024-08-30 15:59:20 +0200",
       "Completed Slop in the Bucket§r": "2024-08-30 15:58:38 +0200",
       "Completed On the Rocks§r": "2024-08-30 15:31:43 +0200",
       "Completed Starting from the Bottom§r": "2024-08-29 16:35:18 +0200",
+      "Completed Oh, the Irony§r": "2024-09-04 01:59:21 +0200",
+      "Completed Ironwood§r": "2024-09-04 01:57:58 +0200",
       "Completed Hardwood§r": "2024-08-30 15:18:51 +0200",
+      "Completed Sixteen Tons§r": "2024-09-04 01:33:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 15:49:21 +0200",
       "Completed Clay Aiken§r": "2024-08-30 15:52:24 +0200"
     },
@@ -93,6 +99,12 @@
       "Obtain Wooden Crook": "2024-08-29 16:44:18 +0200"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/sandsapling": {
+    "criteria": {
+      "Obtain Sand Sapling": "2024-09-04 01:26:23 +0200"
+    },
+    "done": false
   },
   "sf4:age_farming/bonsai": {
     "criteria": {
@@ -160,16 +172,22 @@
       "Completed Water You Waiting For?§r": "2024-08-30 16:47:25 +0200",
       "Completed Break a Leg§r": "2024-08-30 16:53:20 +0200",
       "Completed I Love Lucy§r": "2024-08-30 16:12:46 +0200",
+      "Completed Palm Trees§r": "2024-09-04 01:26:23 +0200",
       "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Completed Nap Time§r": "2024-09-04 02:20:10 +0200",
       "Completed Captain Hook§r": "2024-08-29 16:44:18 +0200",
       "Completed Dirty Dancing§r": "2024-08-29 16:40:32 +0200",
+      "Completed Amber is the Color of my Dinosaur§r": "2024-09-04 01:35:56 +0200",
       "Completed SkyFactory 4§r": "2024-08-29 16:33:12 +0200",
       "Completed Don\u0027t Sieve on Me§r": "2024-08-30 16:17:21 +0200",
       "Completed Bubble, Bubble§r": "2024-08-30 15:59:20 +0200",
       "Completed Slop in the Bucket§r": "2024-08-30 15:58:38 +0200",
       "Completed On the Rocks§r": "2024-08-30 15:31:43 +0200",
       "Completed Starting from the Bottom§r": "2024-08-29 16:35:18 +0200",
+      "Completed Oh, the Irony§r": "2024-09-04 01:59:21 +0200",
+      "Completed Ironwood§r": "2024-09-04 01:57:58 +0200",
       "Completed Hardwood§r": "2024-08-30 15:18:51 +0200",
+      "Completed Sixteen Tons§r": "2024-09-04 01:33:21 +0200",
       "Completed Eating Dirt§r": "2024-08-30 15:49:21 +0200",
       "Completed Clay Aiken§r": "2024-08-30 15:52:24 +0200"
     },
@@ -202,9 +220,10 @@
   },
   "sf4:age1/sleep": {
     "criteria": {
-      "Completed Root": "2024-08-29 16:33:12 +0200"
+      "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Right Click on Bed": "2024-09-04 02:20:10 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/lead": {
     "criteria": {
@@ -300,6 +319,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/ironsapling": {
+    "criteria": {
+      "Obtain Iron Sapling": "2024-09-04 01:57:58 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/silver": {
     "criteria": {
       "Completed Root": "2024-08-29 16:33:12 +0200"
@@ -391,9 +416,10 @@
   },
   "sf4:age1/iron_ingot": {
     "criteria": {
-      "Completed Root": "2024-08-29 16:33:12 +0200"
+      "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Obtain Iron Ingot": "2024-09-04 01:59:21 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
@@ -431,6 +457,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/sleep": {
+    "criteria": {
+      "Slept in a bed": "2024-09-04 02:21:13 +0200"
+    },
+    "done": false
+  },
   "sf4:age1/amber/gold": {
     "criteria": {
       "Completed Root": "2024-08-29 16:33:12 +0200"
@@ -452,7 +484,10 @@
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2024-08-29 16:36:14 +0200",
+      "Obtain Coal Sapling": "2024-09-04 01:33:21 +0200",
       "Obtain Petrified Sapling": "2024-08-30 15:18:51 +0200",
+      "Obtain Iron Sapling": "2024-09-04 01:57:58 +0200",
+      "Obtain Sand Sapling": "2024-09-04 01:26:23 +0200",
       "Obtain Clay Sapling": "2024-08-30 15:52:24 +0200",
       "Obtain Gravel Sapling": "2024-08-30 16:17:21 +0200",
       "Obtain Bone Sapling": "2024-08-30 16:53:20 +0200"
@@ -465,15 +500,15 @@
     },
     "done": false
   },
-  "tutorial:tutorial/copied/water": {
-    "criteria": {
-      "Obtain Water in a Clay Bucket": "2024-08-30 16:47:25 +0200"
-    },
-    "done": false
-  },
   "tutorial:tutorial/copied/crushingtub": {
     "criteria": {
       "Obtain Crushing Tub": "2024-08-30 16:12:46 +0200"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/water": {
+    "criteria": {
+      "Obtain Water in a Clay Bucket": "2024-08-30 16:47:25 +0200"
     },
     "done": false
   },
@@ -489,11 +524,23 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/iron": {
+    "criteria": {
+      "Obtain Iron Amber": "2024-09-04 01:35:56 +0200"
+    },
+    "done": false
+  },
   "sf4:age_exploration/root": {
     "criteria": {
       "inventoryChange": "2024-08-29 16:33:12 +0200"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/coalsapling": {
+    "criteria": {
+      "Obtain Coal Sapling": "2024-09-04 01:33:21 +0200"
+    },
+    "done": false
   },
   "sf4:age_storage/root": {
     "criteria": {
@@ -515,9 +562,10 @@
   },
   "sf4:age1/sapling/sand": {
     "criteria": {
-      "Completed Root": "2024-08-29 16:33:12 +0200"
+      "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Obtain Sand Sapling": "2024-09-04 01:26:23 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/dirt": {
     "criteria": {
@@ -528,9 +576,10 @@
   },
   "sf4:age1/sapling/coal": {
     "criteria": {
-      "Completed Root": "2024-08-29 16:33:12 +0200"
+      "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Obtain Coal Sapling": "2024-09-04 01:33:21 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/complete": {
     "criteria": {
@@ -547,9 +596,10 @@
   },
   "sf4:age1/sapling/iron": {
     "criteria": {
-      "Completed Root": "2024-08-29 16:33:12 +0200"
+      "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Obtain Iron Sapling": "2024-09-04 01:57:58 +0200"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/stone_crook": {
     "criteria": {
@@ -622,7 +672,14 @@
   },
   "sf4:age1/amber/iron": {
     "criteria": {
-      "Completed Root": "2024-08-29 16:33:12 +0200"
+      "Completed Root": "2024-08-29 16:33:12 +0200",
+      "Obtain Iron Amber": "2024-09-04 01:35:56 +0200"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/ironingot": {
+    "criteria": {
+      "Obtain Iron Ingot": "2024-09-04 01:59:21 +0200"
     },
     "done": false
   },
