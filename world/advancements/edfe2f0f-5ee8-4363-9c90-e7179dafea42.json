@@ -341,6 +341,12 @@
     },
     "done": false
   },
+  "prestige:prestige/energy_cube": {
+    "criteria": {
+      "Acquire Advanced Energy Cube": "2024-09-06 00:55:31 +0200"
+    },
+    "done": true
+  },
   "sf4:age_farming/root": {
     "criteria": {
       "inventoryChange": "2024-08-28 20:30:37 +0200"
@@ -1103,10 +1109,17 @@
       "Completed Shredded Wheat§r": "2024-08-29 23:46:59 +0200",
       "Completed This Little Piggy§r": "2024-08-30 18:45:23 +0200",
       "Completed Bonsai!!!§r": "2024-08-30 14:11:46 +0200",
+      "Completed Don\u0027t Eat the Yellow Mulch§r": "2024-09-06 00:38:50 +0200",
       "Completed TuMULCHuous§r": "2024-08-30 14:12:34 +0200",
       "Completed Age of Farming§r": "2024-08-28 20:30:37 +0200"
     },
     "done": false
+  },
+  "sf4:age_farming/yellowmulch": {
+    "criteria": {
+      "Obtain Yellow Mulch": "2024-09-06 00:38:50 +0200"
+    },
+    "done": true
   },
   "sf4:age_allthethingsomglol/root": {
     "criteria": {

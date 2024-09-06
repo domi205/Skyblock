@@ -70,7 +70,8 @@
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2024-08-29 16:33:12 +0200",
-      "Completed Age of Storage§r": "2024-08-29 16:33:12 +0200"
+      "Completed Age of Storage§r": "2024-08-29 16:33:12 +0200",
+      "Completed Hop to It§r": "2024-09-06 02:06:47 +0200"
     },
     "done": false
   },
@@ -120,7 +121,8 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
-      "Completed Age of Storage§r": "2024-08-29 16:33:12 +0200"
+      "Completed Age of Storage§r": "2024-08-29 16:33:12 +0200",
+      "Completed Hop to It§r": "2024-09-06 02:06:47 +0200"
     },
     "done": false
   },
@@ -358,6 +360,12 @@
     },
     "done": false
   },
+  "sf4:age_farming/hoppingbonsai": {
+    "criteria": {
+      "Obtain Bonsai Pot": "2024-09-06 02:07:14 +0200"
+    },
+    "done": true
+  },
   "tutorial:tutorial/dryingrack": {
     "criteria": {
       "Obtain Oak Wood Planks": "2024-08-29 16:43:44 +0200"
@@ -427,6 +435,12 @@
     },
     "done": false
   },
+  "sf4:age_storage/hopper": {
+    "criteria": {
+      "Obtain Hopper": "2024-09-06 02:06:47 +0200"
+    },
+    "done": true
+  },
   "sf4:age1/iron_bucket": {
     "criteria": {
       "Completed Root": "2024-08-29 16:33:12 +0200"
@@ -450,6 +464,12 @@
       "Completed Root": "2024-08-29 16:33:12 +0200"
     },
     "done": false
+  },
+  "sf4:age_farming/brownmulch": {
+    "criteria": {
+      "Obtain Brown Mulch": "2024-09-06 02:30:15 +0200"
+    },
+    "done": true
   },
   "tutorial:tutorial/placedirtsapling": {
     "criteria": {
@@ -713,8 +733,10 @@
   },
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
+      "Completed Cowabonsai!§r": "2024-09-06 02:07:14 +0200",
       "Prestige Mode Disabled": "2024-08-29 16:33:12 +0200",
       "Completed Bonsai!!!§r": "2024-08-30 16:27:05 +0200",
+      "Completed TuMULCHuous§r": "2024-09-06 02:30:15 +0200",
       "Completed Age of Farming§r": "2024-08-29 16:33:12 +0200"
     },
     "done": false
